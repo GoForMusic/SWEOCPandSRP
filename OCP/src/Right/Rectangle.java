@@ -1,5 +1,4 @@
 package Right;
-
 public class Rectangle implements Shape{
 
     @Override
